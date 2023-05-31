@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1653570694 source:a:\programming\c++\problem solving\2022 project\matrix calculator2001087\matrix.cpp
+	<iostream>
+	<cmath>
+
+1653570682 source:a:\programming\c++\problem solving\2022 project\matrix calculator2001087\main.cpp
+	<iostream>
+	<cmath>
+	"matrix.h"
+
+1653570658 a:\programming\c++\problem solving\2022 project\matrix calculator2001087\matrix.h
+
